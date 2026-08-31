@@ -1,0 +1,22 @@
+# Thư mục phụ thuộc (rất nặng, không push lên Git)
+node_modules/
+dist/
+build/
+.next/
+.devcontainer/
+scripts/
+tmp/
+native/
+
+# File nhật ký lỗi & môi trường
+*.log
+.env
+.env.local
+.env.*.local
+
+# File hệ thống & IDE rác
+.DS_Store
+.vscode/
+.idea/
+CALL_RESEARCH.md
+README_API.md
