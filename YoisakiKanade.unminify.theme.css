@@ -1,0 +1,691 @@
+/**
+* @name Yoisaki Kanade theme
+* @author linh
+* @description a theme make with love for Kanade
+* @version 1.0
+* @source https://github.com/AQN2011BCC/rezl/blob/main/YoisakiKanade.theme.css
+*/
+
+/* unminify version */
+
+.app__160d8 {
+    background: 0 0;
+}
+.wrapper_ef3116 {
+    background: 0 0;
+}
+.sidebar_c48ade:after {
+    background: 0 0;
+}
+.container__2637a {
+    background: 0 0;
+}
+.chat_f75fb0 {
+    background: 0 0;
+}
+.chatContent_f75fb0 {
+    background: 0 0;
+}
+.themed__9293f {
+    background: 0 0;
+}
+.container_c8ffbb {
+    background: 0 0;
+}
+.themedBackground__74017 {
+    background: 0 0;
+}
+.privateChannels__35e86 {
+    background: 0 0;
+}
+.scroller__99e7c {
+    background: 0 0;
+}
+.children__9293f:after {
+    background: 0 0;
+}
+.wrapper_ef3116 .scroller_ef3116 {
+    display: flex;
+    flex-flow: row wrap;
+    padding-left: 0;
+    align-content: flex-start;
+}
+.tree_ef3116 .stack_dbd263 {
+    display: flex !important;
+    flex-flow: row wrap !important;
+    justify-content: center !important;
+}
+.stack_dbd263 .listItem__650eb:not(.wrapper__48112 .listItem__650eb) {
+    width: initial;
+    padding: 1px;
+    margin: 2px;
+}
+.stack_dbd263 .wrapper__48112 .listItem__650eb {
+    width: initial;
+}
+.scroller_ef3116 > .listItem__650eb {
+    width: 100%;
+}
+.listItem-GuPuDH {
+    width: auto;
+    margin-left: 0;
+}
+.wrapper-21YSNc {
+    position: relative;
+    width: auto;
+}
+.wrapper__58105 {
+    overflow: visible !important;
+}
+.wrapper__58105.overlay__58105 {
+    width: 100% !important;
+}
+.overlay__58105 {
+    top: initial !important;
+}
+#guild-list-unread-dms .item__58105 {
+    display: none !important;
+}
+.item__58105.hovered__58105 {
+    display: none !important;
+}
+.item__58105.selected__58105 {
+    display: none !important;
+}
+.tutorialContainer__1f388 .item__58105 {
+    display: none !important;
+}
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 {
+    justify-content: center;
+}
+.itemsContainer_ef3116 .stack_dbd263 {
+    display: flex !important;
+    flex-direction: column !important;
+    flex-flow: row wrap !important;
+    align-items: flex-start !important;
+}
+.wrapper__67dba .stack_dbd263 {
+    display: initial !important;
+    flex-direction: initial !important;
+    flex-flow: initial !important;
+    align-items: initial !important;
+}
+.tutorialContainer__1f388 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.stack_dbd263 .wrapper__48112 {
+    width: fit-content !important;
+}
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 > .listItem__650eb {
+    margin-bottom: 8px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2:last-child .listItem__650eb {
+    width: initial;
+}
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2:last-child .listItem__650eb .pill__5bc7e {
+    display: none !important;
+}
+.wrapper__48112.isExpanded__48112 .listItem__650eb {
+    width: 100% !important;
+}
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 > div .listItem__650eb .pill_ed9a5f.wrapper__58105 {
+    display: none !important;
+}
+.wrapper__48112.isExpanded__48112 .stack_dbd263 {
+    height: fit-content !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+.wrapper__48112.isExpanded__48112 .listItem__650eb {
+    width: 100%;
+}
+.wrapper__48112.isExpanded__48112 .stack_dbd263 .listItem__650eb .pill_e5445c.wrapper__58105 .item__58105 {
+    width: 85% !important;
+    height: 100% !important;
+    left: 5px !important;
+    top: -2px !important;
+}
+.wrapper__48112.isExpanded__48112 .stack_dbd263 {
+    overflow: visible;
+}
+.expandedFolderBackground__48112 {
+    left: 0;
+}
+.tutorialContainer__1f388 .listItem__650eb .pill__1f388.wrapper__58105 {
+    display: none;
+}
+.wrapper__6e9f8 .childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 svg {
+    display: none;
+}
+.tutorialContainer__1f388 .wrapper_cc5dd2 .wrapper__6e9f8 .childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 {
+    background-color: initial;
+}
+.folderGroup__48112 {
+    width: 54px !important;
+}
+.folderGroup__48112:not(.isExpanded__48112) .listItem__650eb .pill_e5445c.wrapper__58105 .item__58105 {
+    margin-left: -3px !important;
+    width: 48px !important;
+}
+.stack_dbd263.folderGuildsList__48112 {
+    gap: 0 !important;
+}
+.folderGroupBackground__48112 {
+    left: 3px;
+}
+.unreadMentionsIndicatorTop_ef3116 {
+    justify-self: center;
+}
+.wrapper_ef3116 .scroller_ef3116 {
+    justify-content: center;
+}
+.tabBody__133bf {
+    background: 0 0;
+}
+.container__133bf {
+    background: 0 0;
+}
+.member_c8ffbb {
+    background-color: initial;
+}
+.nowPlayingColumn__133bf {
+    background-color: initial;
+}
+.container__7d20c {
+    background-color: initial;
+}
+.wrapper_d852db {
+    background: 0 0;
+}
+.wrapper_fc8177 {
+    background: 0 0;
+}
+.standardSidebarView__23e6b {
+    background: 0 0;
+}
+.sidebarRegionScroller__23e6b {
+    background: 0 0;
+}
+.layer__960e4 {
+    background: 0 0;
+}
+.contentRegion__23e6b {
+    background: 0 0;
+}
+.contentRegionScroller__23e6b {
+    background-color: initial;
+}
+.channelAttachmentArea_b77158 {
+    background-color: initial;
+}
+.upload_aa605f {
+    background-color: initial;
+}
+.guildSeparator__252b6 {
+    display: none;
+}
+.searchBar__5ec2f {
+    background-color: initial;
+    backdrop-filter: blur(5px);
+}
+.itemCard__7e549.wrapper__00943.outer_bf1984.padded_bf1984.interactive_bf1984 {
+    background-color: initial;
+    backdrop-filter: blur(5px);
+}
+.embedFull__623de {
+    background-color: initial !important;
+    backdrop-filter: blur(5px);
+}
+.footer__4d95d {
+    background: 0 0;
+    backdrop-filter: blur(5px);
+}
+.textContainer__4d95d {
+    background-color: initial;
+    backdrop-filter: blur(15px) !important;
+}
+.codeView__4d95d {
+    background-color: initial;
+}
+.container__0f2e8 {
+    background-color: initial !important;
+    backdrop-filter: blur(5px);
+}
+.panel__5dec7 {
+    background-color: initial !important;
+}
+.scroller__28a87 {
+    background-color: initial;
+}
+.root_bfe55a {
+    background: 0 0;
+}
+.wrapper_cb9592 {
+    background: 0 0;
+}
+.callContainer_cb9592 {
+    background: 0 0;
+}
+.resizeHandle__01ae2 {
+    background: 0 0;
+}
+.container__01ae2 {
+    background: 0 0;
+    backdrop-filter: blur(5px);
+}
+.chatLayerWrapper__01ae2 {
+    background: 0 0;
+}
+.channelChatWrapper_cb9592 {
+    background: 0 0;
+}
+.container_f369db {
+    background: 0 0;
+}
+.mainCard_f369db {
+    background: 0 0;
+    backdrop-filter: blur(5px);
+}
+.container_faa96b:hover {
+    background: 0 0;
+    backdrop-filter: blur(15px);
+}
+.membersWrap_c8ffbb {
+    background-color: initial;
+}
+.privateChannels_e6b769 {
+    background: 0 0;
+}
+.chatGradient__36d07 {
+    background: 0 0;
+}
+.chatTypingGradientAtBottom__36d07,
+.chatTypingGradientNotAtBottom__36d07 {
+    background: 0 0;
+}
+.themed__9293f {
+    background: 0 0 !important;
+}
+.sidebar__5e434:after {
+    background: 0 0;
+}
+.chatGradient__36d07 {
+    background: 0 0;
+}
+#guild-list-unread-dms .pill_ed9a5f {
+    display: none;
+}
+.titleContainer_e29cd7 {
+    background-color: initial;
+}
+.header_c6bf1b {
+    background-color: initial;
+}
+.scroller__53543 {
+    background-color: initial;
+}
+.chatTypingGradientNotAtBottom__36d07 {
+    background: 0 0;
+}
+.chatTypingGradientAtBottom__36d07 {
+    background: 0 0;
+}
+
+
+
+
+
+
+/*====================================================================================================*/
+.appMount__51fd7 {
+    background: 0 0;
+    background-image: url("https://raw.githubusercontent.com/AQN2011BCC/rezl/main/108.png");
+    background-size: cover !important;
+}
+/* 1. Thiết lập ảnh nền + căn chỉnh vừa vặn khung */
+.listItemWrapper__91816 .wrapper_cc5dd2 .wrapper__6e9f8 .childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 {
+    background-image: url("https://raw.githubusercontent.com/AQN2011BCC/rezl/refs/heads/main/t%E1%BA%A3i%20xu%E1%BB%91ng.jfif") !important; 
+    background-size: cover !important; /* Ép ảnh thu nhỏ vừa khít khung */ 
+} 
+ 
+/*đổi nền hồ sơ*/ 
+.aside_f58343, 
+.user-profile-sidebar, 
+.outer_c0bea0 { 
+    /* màu nền hồ sơ */ 
+    /* background: linear-gradient(135deg, #A2D2FF 20%, #ffaecc 100%) !important; */ 
+    background: linear-gradient(135deg, rgba(48, 71, 94, 0.6) 20%, rgba(187, 102, 136, 0.6) 100%) !important; 
+    /* Hiệu ứng làm mờ kính (Glassmorphism) giúp hình nền đằng sau mờ ảo đẹp hơn */ 
+    /* backdrop-filter: blur(2px) !important; */ 
+    border-radius: 20px; 
+    border: 2px solid rgba(225, 150, 255, 0.8) !important;  
+    /* 3. Hiệu ứng phát sáng tỏa ra ngoài (Glow) */ 
+    box-shadow:  
+        0 0 10px #BB668899,  /* Lớp sáng đậm sát viền */ 
+        0 0 20px #BB668866,  /* Lớp sáng vừa */ 
+        0 0 35px #BB668833 !important; /* Lớp sáng tỏa mờ */ 
+ 
+} 
+.inner_c0bea0 { 
+    background: transparent !important; 
+    background-color: transparent !important; 
+    border-radius: 14px !important; 
+} 
+ 
+/*làm trong suốt phần widget*/ 
+.outer_c0bea0 .overlay_c0bea0 { 
+    background: rgba(0, 0, 0, 0.2) !important; 
+} 
+ 
+/* Đặt nền gradient cho khung lời mời */ 
+.inviteEmbed_ae2544, 
+.wrapper_d5f3cd { 
+    background: linear-gradient(135deg, #12263a 20%, #9c3f61 100%) !important; 
+    border-radius: 12px !important; 
+} 
+ 
+.user-profile-sidebar { 
+    --profile-gradient-primary-color: transparent !important; 
+    --profile-gradient-secondary-color: transparent !important; 
+    --profile-gradient-overlay-color: transparent !important; 
+} 
+ 
+/* nền nhiệm vụ */ 
+.scroller__23746{ 
+    background-color: rgba(0, 0, 0, 0.2) !important; 
+} 
+ 
+/* nền hồ sơ */ 
+.profile__9c3be{ 
+    background-color: rgba(0, 0, 0, 0) !important; 
+} 
+ 
+.banner_f7e69e{ 
+    border-radius: 18px !important; 
+    /* overflow: hidden !important; */ 
+} 
+ 
+/* chỗ lúc call */ 
+.buttonSection__1405b{ 
+    background-color: #bb66883f !important;  
+} 
+ 
+/* thanh chat */ 
+.buttonInner_aec7ab, 
+.contentWrapper__08434, 
+.wrapper_cb9592.minimum_cb9592, 
+.actionButtons_cc1819, 
+.channelTextArea_f75fb0 { 
+    background-color: rgba(187, 102, 136, 0.171) !important;  
+    backdrop-filter: blur(12px) !important; 
+    -webkit-backdrop-filter: blur(12px) !important;  
+    border: 1px solid rgba(187, 102, 136, 0.4) !important; 
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3) !important; 
+    border-radius: 20px; 
+} 
+ 
+.members_c8ffbb{ 
+    background-color: rgba(187, 102, 136, 0.171) !important;  
+    backdrop-filter: blur(12px) !important; 
+    -webkit-backdrop-filter: blur(12px) !important;  
+    border: 1px solid rgba(187, 102, 136, 0.4) !important; 
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3) !important; 
+    border-radius: 20px; 
+    height: calc(100% - 16px) !important; /* Giảm chiều cao để chừa mép trên/dưới */ 
+    margin-bottom: 8px !important;        /* Tạo khoảng hở ở mép đáy */ 
+    margin-top: 8px !important;           /* Cách nhẹ mép trên cho cân đối */ 
+    /* overflow: hidden !important; */ 
+} 
+ 
+/* - Nền thanh tiến trình boost nitro */ 
+.progressContainer__0d0f9 { 
+    background-color: rgba(255, 255, 255, 0.1) !important; 
+} 
+.progress__0d0f9 { 
+    background-color: #BB6688 !important; 
+} 
+.textContainer__0d0f9 .caret__0d0f9 { 
+    color: #ce3572 !important; 
+} 
+ 
+/* unread */ 
+/* 1. Tùy chỉnh tổng thể (Màu nền, màu chữ, bo góc) */ 
+.bar__3b95d.unreadMentionsBar_ef3116 { 
+    background-color: #BB6688 !important; /* Màu nền (mặc định là màu đỏ/cam của Discord) */ 
+    color: #ffffff !important;            /* Màu chữ/icon */ 
+    border-radius: 8px !important;        /* Độ bo góc */ 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important; 
+} 
+ 
+.bar__3b95d.unreadMentionsBar_ef3116 { 
+    background-color: rgba(187, 102, 136, 0.85) !important; 
+    backdrop-filter: blur(8px) !important; 
+    -webkit-backdrop-filter: blur(8px) !important; 
+    transform: scale(0.9) !important; 
+    transform-origin: top center !important; 
+} 
+ 
+ 
+.bar__3b95d.unreadMentionsBar_ef3116:hover { 
+    background-color: #d1789c !important; 
+} 
+.bar__3b95d.unreadMentionsBar_ef3116 * { 
+    color: #ffffff !important; 
+    fill: #ffffff !important; 
+} 
+ 
+.panels__5e434 { 
+    background: rgba(187, 102, 136, 0.15) !important; 
+    backdrop-filter: blur(5px); 
+    -webkit-backdrop-filter: blur(5px) !important; 
+} 
+ 
+.wrapper_ef3116 { 
+    width: 70px 
+} 
+.itemsContainer_ef3116 { 
+    width: 76px 
+} 
+ 
+/* độ đậm màu nền */ 
+.bg__960e4 { 
+    background: rgba(0, 0, 0, 0.3); 
+} 
+ 
+/* 1. Ép phần tử cha ngoài cùng giữ nguyên độ hiện rõ khi hover bất kỳ đâu bên trong */ 
+.contentExpanded__24e2c { 
+    pointer-events: auto !important; 
+} 
+ 
+/* 2. Định dạng khung background nền */ 
+.postEnrollmentBackground__24e2c.postEnrollmentBackgroundExpanded__24e2c { 
+    background-color: rgba(18, 12, 16, 0.8) !important; 
+    border: 3px solid rgba(187, 102, 136, 0.5) !important; 
+    backdrop-filter: blur(16px) !important; 
+    -webkit-backdrop-filter: blur(16px) !important; 
+    border-radius: 18px !important; 
+    width: calc(100% - 6px) !important; 
+    height: calc(100% - 8px) !important; 
+    margin-left: auto !important; 
+    margin-right: auto !important; 
+ 
+    /* Trạng thái mặc định: Ẩn */ 
+    opacity: 0 !important; 
+    transition: opacity 0.15s ease-in-out !important; 
+    pointer-events: none !important; /* Không cản trở click vào các nút bên trong */ 
+} 
+ 
+/* 3. Hiển thị nền khi di chuột vào toàn bộ khối bảng HOẶC bất kỳ phần tử con nào */ 
+.contentExpanded__24e2c:hover .postEnrollmentBackground__24e2c.postEnrollmentBackgroundExpanded__24e2c, 
+.contentExpanded__24e2c:focus-within .postEnrollmentBackground__24e2c.postEnrollmentBackgroundExpanded__24e2c, 
+.questAcceptedContent__24e2c:hover ~ .postEnrollmentBackground__24e2c.postEnrollmentBackgroundExpanded__24e2c { 
+    opacity: 1 !important; 
+} 
+ 
+.header__8ef02, 
+.inspector_aeaaeb, 
+.wrapper__4e6ce{ 
+    background-color: rgba(187, 102, 136, 0) !important;  
+} 
+ 
+.wrapper__14245.packHeader_e94b8c{ 
+    background-color: rgba(187, 102, 136, 0.74); 
+    border-radius: 26px; 
+    overflow: hidden;  
+} 
+ 
+.standardStickerShortcut__3ad28{ 
+    background-color: rgba(187, 102, 136, 1) 
+} 
+.header__14245.interactive__14245, 
+.header__14245 { 
+    display: flex !important; 
+    justify-content: center !important; /* Căn giữa theo chiều ngang */ 
+    align-items: center !important;     /* Căn giữa theo chiều dọc */ 
+    text-align: center !important;       /* Căn giữa chữ */ 
+    width: 100% !important;              /* Ép chiều rộng full khung để căn giữa chuẩn */ 
+} 
+.body__00943.inset_bf1984{ 
+    background-color: rgba(187, 102, 136, 0.3);     
+} 
+ 
+ 
+.safetySettingsNotice__9536c.blockedIgnoredSettingsNotice__6811a, 
+.headerSimple__00943.header__00943, 
+.headerFull__00943.header__00943{ 
+    background-color: rgba(187, 102, 136, 0.5); 
+} 
+ 
+/* widget */ 
+.container__62dd3{ 
+    background-color: rgba(187, 102, 136, 0.233);     
+} 
+.divider__1de9c{ 
+    background-color: rgba(68, 19, 39, 0.801);       
+} 
+ 
+ 
+ 
+/* 1. Đè màu các văn bản tiêu đề / gợi ý nhiệm vụ */ 
+/* .questProgressHint_ae7810, 
+.questProgressCopy_ae7810 * { 
+    color: #ffffff !important; 
+} 
+*/ 
+ 
+/* .questProgressHint_ae7810[style*="color: var(--text-subtle)"] { 
+    color: rgba(255, 255, 255, 0.7) !important; 
+} */ 
+ 
+/* 2. Đè màu vòng tiến trình (Progress Bar SVG) */ 
+/* Vòng nền phía dưới */ 
+.progressBar__146e2 circle[stroke*="var(--background-mod-strong)"] { 
+    stroke: rgba(187, 102, 136, 0.3) !important; 
+} 
+ 
+/* Vòng chạy tiến trình chính (mặc định là màu xanh lá --status-positive) */ 
+.progressBar__146e2 circle[stroke*="var(--status-positive)"] { 
+    stroke: #BB6688 !important; /* Đổi sang màu hồng/tím theme của bạn */ 
+} 
+ 
+/* 3. Hiện lại nội dung nếu bị opacity: 0 đè ẩn */ 
+.questProgressWrapper_ae7810 div[style*="opacity: 0"] { 
+    opacity: 1 !important; 
+} 
+ 
+/* .outer__24e2c, 
+.contentExpanded__24e2c, */ 
+.contentCollapsed__7004f { 
+    backdrop-filter: blur(10px) !important; 
+    -webkit-backdrop-filter: blur(10px) !important; 
+    border-radius: 8px !important; /* Đảm bảo thẻ cha có bo góc */ 
+    overflow: hidden !important;    /* Cắt tất cả phần tử con lòi ra ngoài */ 
+} 
+ 
+.contentCollapsedWrapper__7004f, 
+.postEnrollmentBackground__24e2c { 
+    background: linear-gradient(135deg, #12263a 20%, #9c3f61 100%) !important; 
+    border-radius: 12px !important; /* Ép thẻ con mang gradient cũng phải bo góc 12px */ 
+    overflow: hidden !important; 
+} 
+.shop__08415{ 
+    background-color: rgba(0, 0, 0, 0.1) !important; 
+} 
+.shopScroll__08415{ 
+    background-color: transparent !important; 
+    backdrop-filter: blur(5px) !important; 
+    -webkit-backdrop-filter: blur(5px) !important; 
+} 
+ 
+.shop__6db1d.custom-cursors{ 
+    background-color: transparent !important; 
+} 
+ 
+.buttonsInner__5126c.popover_f84418.wrapper_f7ecac{ 
+    background-color: rgba(187, 102, 136, 0.2); 
+ 
+} 
+ 
+.newMessagesBar__0f481.barBase__0f481{ 
+    background-color: rgba(187, 102, 136, 0.5); 
+} 
+ 
+.contentWrapper__9c62c{ 
+    background-color: rgba(187, 102, 136, 0.226); 
+    backdrop-filter: blur(5px); 
+    -webkit-backdrop-filter: blur(5px); 
+    border: 1px solid rgba(187, 102, 136, 0.4) !important; 
+    transform: translateY(-15px) !important; 
+} 
+ 
+.padding-size-lg__8a031, .padding-size-sm__8a031{ 
+    background-color: rgba(187, 102, 136, 0.226); 
+    backdrop-filter: blur(5px); 
+    -webkit-backdrop-filter: blur(5px); 
+    border: 1px solid rgba(187, 102, 136, 0.4) !important; 
+} 
+ 
+/* 1. MÃ MÀU VÀ NỀN CHO THẺ NITRO (BÊN TRÁI) */ 
+.card_a2332b:not(.tier0_a2332b) { 
+    background-color: rgba(187, 102, 136, 0.226) !important; /* Đổi màu nền (dạng RGBA để có độ trong suốt) */ 
+    background-image: none !important;                         /* Xóa màu gradient mặc định của Discord */ 
+    backdrop-filter: blur(5px) !important;                     /* Hiệu ứng kính mờ */ 
+    -webkit-backdrop-filter: blur(5px) !important; 
+    border: 1px solid rgba(187, 102, 136, 0.4) !important;      /* Viền cùng tông màu */ 
+    border-radius: 12px !important;                            /* Bo góc */ 
+} 
+ 
+/* 2. MÃ MÀU VÀ NỀN CHO THẺ NITRO CƠ BẢN (BÊN PHẢI) */ 
+.card_a2332b.tier0_a2332b { 
+    background-color: rgba(88, 101, 242, 0.2) !important; 
+    background-image: none !important; 
+    backdrop-filter: blur(5px) !important; 
+    -webkit-backdrop-filter: blur(5px) !important; 
+    border: 1px solid rgba(88, 101, 242, 0.4) !important; 
+    border-radius: 12px !important; 
+} 
+
+.item__58105 {
+    width: 4px !important;
+    height: 36px !important;
+    background-color: rgba(187, 102, 136, 0.5); 
+    border: none !important;
+    border-radius: 2px !important;
+    position: absolute !important;
+    left: -4px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+}
+
+.container_a14595{
+    background-color: rgba(187, 102, 136, 0.3); 
+}
+
